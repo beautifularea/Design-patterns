@@ -2,8 +2,8 @@
 Impedimentation in C++
 
 CreationalPatterns:
-<ul>Builder模式</ul>
-<ul>Factory模式</ul>
-<ul>ProtoType模式</ul>
-<ul>Singleton模式</ul>
+<li>Builder模式</li>
+<li>Factory模式</li>
+<li>ProtoType模式</li>
+<li>Singleton模式</li>
 
