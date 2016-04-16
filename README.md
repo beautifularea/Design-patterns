@@ -1,2 +1,4 @@
 # Design-patterns
-impedimentation in C++
+Impedimentation in C++
+
+1、Factory模式
