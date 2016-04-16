@@ -1,5 +1,5 @@
 # Design-patterns
-Impedimentation in C++
+Implemetation in C++
 
 CreationalPatterns:
 <li>Builder模式</li>
