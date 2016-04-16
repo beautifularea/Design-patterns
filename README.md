@@ -7,3 +7,6 @@ CreationalPatterns:
 <li>ProtoType模式</li>
 <li>Singleton模式</li>
 
+StructuralPatterns:
+<li>Adaptor模式</li>
+
