@@ -16,3 +16,6 @@ StructuralPatterns:
 <li>Flyweight模式</li>
 <li>Proxy模式</li>
 
+BehavioralPatterns:
+<li>Chain of Responsibility模式</li>
+<li>Command模式</li>
